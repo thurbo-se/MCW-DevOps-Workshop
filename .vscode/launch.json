@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/src/TailspinToysWeb/bin/Debug/netcoreapp3.1/TailspinToysWeb.dll",
+            "program": "${workspaceFolder}/src/TailspinToysWeb/bin/Debug/net5.0/TailspinToysWeb.dll",
             "args": [],
             "cwd": "${workspaceFolder}/src/TailspinToysWeb",
             "stopAtEntry": false,
