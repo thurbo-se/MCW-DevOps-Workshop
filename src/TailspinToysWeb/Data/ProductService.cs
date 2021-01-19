@@ -8,7 +8,7 @@ namespace TailspinToysWeb.Data
     {
         public Task<Product[]> GetProductsAsync()
         {
-            Product[] products = new Product[4]
+            Product[] products = new Product[5]
             {
                 new Product(1, "Outtop Foam Throwing Glider", "Foam throwing glider airplane", 10),
                 new Product(2, "Fascinations Metal Earth 3D Laser Cut Model", "Wright Brothers airplane made of 3D laser cut metal", 20),
